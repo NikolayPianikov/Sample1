@@ -1,1 +1,1 @@
-<Project><Target Name="Build"><Exec Command='SET'/></Target></Project>
+<Project><Target Name="Build"><Exec Command='printenv'/></Target></Project>
